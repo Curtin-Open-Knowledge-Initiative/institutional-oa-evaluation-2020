@@ -2,7 +2,7 @@
 
 Article submitted for peer review and an acompanying white paper.
 * Code: https://github.com/Curtin-Open-Knowledge-Initiative/institutional-oa-evaluation-2020
-* Data: Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693222.svg)](https://doi.org/10.5281/zenodo.3693222)
+* Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693222.svg)](https://doi.org/10.5281/zenodo.3693222)
 * Preprints: 
 
 ## Abstract
