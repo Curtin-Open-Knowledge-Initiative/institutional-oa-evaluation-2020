@@ -1,6 +1,6 @@
 name: coki-environment
 channels:
-  - conda-force
+  - conda-forge
 dependencies:
   - jupyter
   - pandas
