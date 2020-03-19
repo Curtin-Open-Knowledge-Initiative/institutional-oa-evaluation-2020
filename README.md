@@ -1,9 +1,16 @@
 # Evaluating institutional open access performance: Methodology, challenges and assessment
 
+Chun-Kai Huang[1], Cameron Neylon[1,2], Richard Hosking[2], Lucy Montgomery[1,2], Katie Wilson[1], Alkim Ozaygen[1], Chloe Brookes-Kenworthy[1]
+
+1. Centre for Culture and Technology, School of Media, Creative Arts and Social Inquiry, Curtin University, Kent St, Bentley 6102, Western Australia
+2. Curtin Institute for Computation, Kent St, Bentley 6102, Western Australia
+
 Article submitted for peer review and an acompanying white paper.
 * Code: https://github.com/Curtin-Open-Knowledge-Initiative/institutional-oa-evaluation-2020
+* Notebooks on MyBinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Curtin-Open-Knowledge-Initiative/institutional-oa-evaluation-2020/mybinder)
 * Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3693222.svg)](https://doi.org/10.5281/zenodo.3693222)
-* Preprints: 
+* Preprints:
+* PDFs for each document can also be found in the top level of this repository
 
 ## Abstract
 
