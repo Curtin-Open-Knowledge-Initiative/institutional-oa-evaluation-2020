@@ -1,0 +1,9 @@
+name: coki-environment
+channels:
+  - conda-force
+dependencies:
+  - jupyter
+  - pandas
+  - seaborn
+  - matplotlib
+  - ffmpeg
